@@ -3,18 +3,18 @@ Bytecode interpreter virtual machine in C for any architecture. This implementat
 
 
 ## Description:
--In this file there is only one C file, vm.c.
+- In this file there is only one C file, vm.c.
 
--vm.c is my VM implementation.
+- vm.c is my VM implementation.
 
--Written in C without using any third-party libraries.
+- Written in C without using any third-party libraries.
 
 ## Build/Run:
--I use GCC 5.4.0 to compile my implementation on a Ubuntu 16.04 LTS machine.
+- I use GCC 5.4.0 to compile my implementation on a Ubuntu 16.04 LTS machine.
 
--To use it compile the C file first. Then make an executable.
+- To use it compile the C file first. Then make an executable.
 
--After these, call the executable while passing name of the image you would like to run as a argument.
+- After these, call the executable while passing name of the image you would like to run as a argument.
 
 Ex:
 
