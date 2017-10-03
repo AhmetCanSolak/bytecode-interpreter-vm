@@ -18,11 +18,10 @@ Bytecode interpreter virtual machine in C for any architecture. This implementat
 
 Ex:
 
+```bash
 $ cc -c vm.c
-
 $ cc vm.c -o vm
-
 $ ./vm vm.bin
-
+```
 
 Thank you.
